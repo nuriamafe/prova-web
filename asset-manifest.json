@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/prova-web/static/css/main.f855e6bc.css",
-    "main.js": "/prova-web/static/js/main.6350750b.js",
+    "main.css": "/prova-web/static/css/main.bf1916ee.css",
+    "main.js": "/prova-web/static/js/main.3fb00ddf.js",
     "static/js/787.d4aba7ab.chunk.js": "/prova-web/static/js/787.d4aba7ab.chunk.js",
-    "static/media/logo.svg": "/prova-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prova-web/index.html",
-    "main.f855e6bc.css.map": "/prova-web/static/css/main.f855e6bc.css.map",
-    "main.6350750b.js.map": "/prova-web/static/js/main.6350750b.js.map",
+    "main.bf1916ee.css.map": "/prova-web/static/css/main.bf1916ee.css.map",
+    "main.3fb00ddf.js.map": "/prova-web/static/js/main.3fb00ddf.js.map",
     "787.d4aba7ab.chunk.js.map": "/prova-web/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6350750b.js"
+    "static/css/main.bf1916ee.css",
+    "static/js/main.3fb00ddf.js"
   ]
 }
