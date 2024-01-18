@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/prova-web/static/css/main.bf1916ee.css",
-    "main.js": "/prova-web/static/js/main.416f7740.js",
+    "main.css": "/prova-web/static/css/main.ede08942.css",
+    "main.js": "/prova-web/static/js/main.47549e87.js",
     "static/js/787.d4aba7ab.chunk.js": "/prova-web/static/js/787.d4aba7ab.chunk.js",
-    "static/media/foto3.jpg": "/prova-web/static/media/foto3.6cfab582150bf2f3c9ee.jpg",
-    "static/media/foto1.jpg": "/prova-web/static/media/foto1.08388237a2724e1eb0f1.jpg",
-    "static/media/foto0.jpg": "/prova-web/static/media/foto0.79906ffd88e157d71eb9.jpg",
-    "static/media/cul.jpg": "/prova-web/static/media/cul.eb06673d721318cbcace.jpg",
-    "static/media/foto2.jpg": "/prova-web/static/media/foto2.92c22b963ef6bd9c23ac.jpg",
+    "static/media/7.jpg": "/prova-web/static/media/7.66550d0fdc9d83dc20c8.jpg",
     "index.html": "/prova-web/index.html",
-    "main.bf1916ee.css.map": "/prova-web/static/css/main.bf1916ee.css.map",
-    "main.416f7740.js.map": "/prova-web/static/js/main.416f7740.js.map",
+    "main.ede08942.css.map": "/prova-web/static/css/main.ede08942.css.map",
+    "main.47549e87.js.map": "/prova-web/static/js/main.47549e87.js.map",
     "787.d4aba7ab.chunk.js.map": "/prova-web/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf1916ee.css",
-    "static/js/main.416f7740.js"
+    "static/css/main.ede08942.css",
+    "static/js/main.47549e87.js"
   ]
 }
