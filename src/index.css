@@ -3,3 +3,44 @@
   padding: 0;
   font-family: "Raleway", sans-serif;
 }
+
+.Navbar {
+  margin-top: 6px;
+}
+
+.Navbar .clubs {
+  font-size: large;
+  color: white;
+}
+
+.cardButton {
+  margin-top: 20px;
+}
+
+.ClubName {
+  margin-top: 30px;
+}
+
+.Club .ant-card-body {
+  padding: 5px;
+}
+
+.Club .ant-card-cover img {
+  height: 200px;
+  width: auto;
+  margin: 10px auto;
+}
+
+.Player .ant-card-cover img {
+  height: 200px;
+  width: auto;
+  margin: 10px auto;
+}
+
+.Player .ant-card-body {
+  padding: 5px;
+}
+
+.Player .ant-card-meta .ant-card-meta-detail .ant-card-meta-title {
+  margin: 0;
+}
