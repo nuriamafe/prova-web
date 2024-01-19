@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prova-web/static/css/main.5a7744ae.css",
-    "main.js": "/prova-web/static/js/main.1e04e702.js",
+    "main.js": "/prova-web/static/js/main.ed3bd661.js",
     "static/js/787.d4aba7ab.chunk.js": "/prova-web/static/js/787.d4aba7ab.chunk.js",
     "static/media/342.jpg": "/prova-web/static/media/342.d7a7153e2ba0a25bdc6d.jpg",
     "static/media/p7.jpg": "/prova-web/static/media/p7.a3c61958d17268e2d9e9.jpg",
@@ -105,13 +105,18 @@
     "static/media/260.jpg": "/prova-web/static/media/260.136b553d6ad81d101068.jpg",
     "static/media/291.jpg": "/prova-web/static/media/291.b5b253ef7f59b38d228f.jpg",
     "static/media/259.jpg": "/prova-web/static/media/259.4af4b1bbab36ad732805.jpg",
+    "static/media/futuro.jpg": "/prova-web/static/media/futuro.8542e535f4470efda866.jpg",
+    "static/media/fantasticas.jpg": "/prova-web/static/media/fantasticas.202ce48341493330bb65.jpg",
+    "static/media/fire.jpg": "/prova-web/static/media/fire.e1e672ed6e90b14dc15f.jpg",
+    "static/media/premium.jpg": "/prova-web/static/media/premium.cda8fe252ce7e1ebe904.jpg",
+    "static/media/top.jpg": "/prova-web/static/media/top.93d6767395327280b961.jpg",
     "index.html": "/prova-web/index.html",
     "main.5a7744ae.css.map": "/prova-web/static/css/main.5a7744ae.css.map",
-    "main.1e04e702.js.map": "/prova-web/static/js/main.1e04e702.js.map",
+    "main.ed3bd661.js.map": "/prova-web/static/js/main.ed3bd661.js.map",
     "787.d4aba7ab.chunk.js.map": "/prova-web/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7744ae.css",
-    "static/js/main.1e04e702.js"
+    "static/js/main.ed3bd661.js"
   ]
 }
