@@ -1351,7 +1351,7 @@ export const clubsInfo = [
   {
     id: 16,
     name: "On Fire",
-    image: "",
+    image: require("../assets/fire/fire.jpg"),
     teamPhoto: "",
     players: [
       {
@@ -1503,7 +1503,7 @@ export const clubsInfo = [
   {
     id: 17,
     name: "Fantásticas",
-    image: "",
+    image: require("../assets/fantasticas/fantasticas.jpg"),
     teamPhoto: "",
     players: [
       {
@@ -1547,7 +1547,7 @@ export const clubsInfo = [
   {
     id: 18,
     name: "Futuro",
-    image: "",
+    image: require("../assets/futuro/futuro.jpg"),
     teamPhoto: "",
     players: [
       {
@@ -1591,7 +1591,7 @@ export const clubsInfo = [
   {
     id: 19,
     name: "Top 22-23",
-    image: "",
+    image: require("../assets/top/top.jpg"),
     teamPhoto: "",
     players: [
       {
@@ -1619,7 +1619,7 @@ export const clubsInfo = [
   {
     id: 20,
     name: "Premium",
-    image: "",
+    image: require("../assets/premium/premium.jpg"),
     teamPhoto: "",
     players: [
       {
