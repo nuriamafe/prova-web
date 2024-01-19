@@ -13,6 +13,11 @@
   color: white;
 }
 
+.SearchBar {
+  margin-top: 10px;
+  width: 50%;
+}
+
 .cardButton {
   margin-top: 20px;
 }
@@ -21,26 +26,73 @@
   margin-top: 30px;
 }
 
-.Club .ant-card-body {
+.TeamPhoto {
+  width: 300px;
+}
+
+.Club .ant-card-body,
+.Player .ant-card-body {
   padding: 5px;
 }
 
-.Club .ant-card-cover img {
-  height: 200px;
-  width: auto;
-  margin: 10px auto;
-}
-
+.Club .ant-card-cover img,
 .Player .ant-card-cover img {
   height: 200px;
   width: auto;
   margin: 10px auto;
 }
 
-.Player .ant-card-body {
-  padding: 5px;
+.Club,
+.Player {
+  width: 340px;
+  height: 260px;
 }
 
-.Player .ant-card-meta .ant-card-meta-detail .ant-card-meta-title {
-  margin: 0;
+.CardContainer {
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  .TeamPhoto {
+    width: 200px;
+  }
+  .Club .ant-card-body,
+  .Player .ant-card-body {
+    padding: 5px;
+  }
+
+  .Club .ant-card-cover img,
+  .Player .ant-card-cover img {
+    height: 140px;
+    width: auto;
+    margin: 10px auto;
+  }
+
+  .Club,
+  .Player {
+    width: 280px;
+    height: 200px;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1024px) {
+  .Club .ant-card-body,
+  .Player .ant-card-body {
+    padding: 5px;
+  }
+
+  .Club .ant-card-cover img,
+  .Player .ant-card-cover img {
+    height: 120px;
+    width: auto;
+    margin: 10px auto;
+  }
+
+  .Club,
+  .Player {
+    width: 260px;
+    height: 180px;
+  }
 }

@@ -1,17 +1,14 @@
 import { Link } from "react-router-dom";
-import { Card, Image, Typography } from "antd";
-const { Title } = Typography;
+import { Card, Image } from "antd";
+const { Meta } = Card;
 
 function ClubCard({ club }) {
   return (
-    <div className="Club cardButton">
+    <div className="cardButton">
       <Link to={`/clubs/${club.id}`}>
         <Card
+          className="Club"
           hoverable
-          style={{
-            width: 340,
-            height: 280,
-          }}
           cover={
             club.image === "" ? (
               <Image
@@ -24,7 +21,7 @@ function ClubCard({ club }) {
             )
           }
         >
-          <Title level={3}>{club.name}</Title>
+          <Meta title={club.name} />
         </Card>
       </Link>
     </div>

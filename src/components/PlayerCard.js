@@ -3,12 +3,9 @@ const { Meta } = Card;
 
 function PlayerCard({ name, image }) {
   return (
-    <div className="Player cardButton">
+    <div className="cardButton">
       <Card
-        style={{
-          width: 340,
-          height: 260,
-        }}
+        className="Player cardButton"
         cover={
           image === "" ? (
             <Image

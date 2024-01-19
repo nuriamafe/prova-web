@@ -15,12 +15,10 @@ function App() {
           <Navbar />
         </Header>
         <Content>
-          <Flex style={{ minHeight: "100vh" }} justify="center">
-            <Routes>
-              <Route path="/prova-web" element={<HomePage />} />
-              <Route path="/clubs/:clubId" element={<ClubPage />} />
-            </Routes>
-          </Flex>
+          <Routes>
+            <Route path="/prova-web" element={<HomePage />} />
+            <Route path="/clubs/:clubId" element={<ClubPage />} />
+          </Routes>
         </Content>
       </Layout>
     </div>
