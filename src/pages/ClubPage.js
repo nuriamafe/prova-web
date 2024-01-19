@@ -29,7 +29,7 @@ function ClubPage() {
     <Flex vertical align="center">
       <Input
         className="SearchBar"
-        placeholder="Search a club"
+        placeholder="Search a player"
         onChange={handleSearch}
         size="large"
         allowClear
