@@ -31,7 +31,7 @@ export const clubsInfo = [
       },
       {
         name: "Nerea Nevado",
-        image: "",
+        image: require("../assets/athletic/9.jpg"),
       },
       {
         name: "Eunate Arraiza",
@@ -260,7 +260,7 @@ export const clubsInfo = [
       },
       {
         name: "Esmee Brugts",
-        image: "",
+        image: require("../assets/barça/60b.jpg"),
       },
       {
         name: "Caroline Graham Hansen",
@@ -304,7 +304,7 @@ export const clubsInfo = [
       },
       {
         name: "Paula Perea",
-        image: "",
+        image: require("../assets/betis/71.jpg"),
       },
       {
         name: "Rosa Márquez",
@@ -320,7 +320,7 @@ export const clubsInfo = [
       },
       {
         name: "Noelia Salazar",
-        image: "",
+        image: require("../assets/betis/75.jpg"),
       },
       {
         name: "Leles",
@@ -456,7 +456,7 @@ export const clubsInfo = [
       },
       {
         name: "Andrea Sierra",
-        image: "",
+        image: require("../assets/eibar/107.jpg"),
       },
       {
         name: "Elba Vergés",
@@ -468,7 +468,7 @@ export const clubsInfo = [
       },
       {
         name: "Eider Arana",
-        image: "",
+        image: require("../assets/eibar/110.jpg"),
       },
       {
         name: "Jujuba Cardozo",
@@ -568,7 +568,7 @@ export const clubsInfo = [
       },
       {
         name: "Xie Ting",
-        image: "",
+        image: require("../assets/granada/135.jpg"),
       },
       {
         name: "Ornella Vignola",
@@ -584,7 +584,7 @@ export const clubsInfo = [
       },
       {
         name: "Andrea Gómez",
-        image: "",
+        image: require("../assets/granada/139.jpg"),
       },
       {
         name: "Naima García",
@@ -599,7 +599,7 @@ export const clubsInfo = [
   {
     id: 7,
     name: "FC Levante Las Planas",
-    image: "",
+    image: require("../assets/levantePlanas/142.jpg"),
     teamPhoto: "",
     players: [
       {
@@ -608,7 +608,7 @@ export const clubsInfo = [
       },
       {
         name: "Laura Coronado",
-        image: "",
+        image: require("../assets/levantePlanas/145.jpg"),
       },
       {
         name: "Núria Garrote",
@@ -692,7 +692,7 @@ export const clubsInfo = [
     players: [
       {
         name: "Emma Holmgren",
-        image: "",
+        image: require("../assets/levante/164.jpg"),
       },
       {
         name: "María Valenzuela",
@@ -712,7 +712,7 @@ export const clubsInfo = [
       },
       {
         name: "Núria Mendoza",
-        image: "",
+        image: require("../assets/levante/169.jpg"),
       },
       {
         name: "Paula Tomás",
@@ -736,7 +736,7 @@ export const clubsInfo = [
       },
       {
         name: "Daniela Arques",
-        image: "",
+        image: require("../assets/levante/175a.jpg"),
       },
       {
         name: "Silvia Lloris",
@@ -764,7 +764,7 @@ export const clubsInfo = [
       },
       {
         name: "Alba Redondo",
-        image: "",
+        image: require("../assets/levante/181.jpg"),
       },
     ],
   },
@@ -872,7 +872,7 @@ export const clubsInfo = [
       },
       {
         name: "Sofie Svava",
-        image: "",
+        image: require("../assets/realMadrid/207b.jpg"),
       },
       {
         name: "Kathellen Sousa",
@@ -972,7 +972,7 @@ export const clubsInfo = [
       },
       {
         name: "Alejandra Bernabé",
-        image: "",
+        image: require("../assets/sociedad/231.jpg"),
       },
       {
         name: "Izarne Sarasola",
@@ -1116,7 +1116,7 @@ export const clubsInfo = [
       },
       {
         name: "Paula Romero",
-        image: "",
+        image: require("../assets/huelva/266b.jpg"),
       },
       {
         name: "Patri Ojeda",
@@ -1204,7 +1204,7 @@ export const clubsInfo = [
       },
       {
         name: "Claudia Florentino",
-        image: "",
+        image: require("../assets/valencia/287.jpg"),
       },
       {
         name: "María Molina",
@@ -1256,7 +1256,7 @@ export const clubsInfo = [
       },
       {
         name: "Maca Portales",
-        image: "",
+        image: require("../assets/valencia/300.jpg"),
       },
       {
         name: "Ivonne Chacón",
@@ -1284,7 +1284,7 @@ export const clubsInfo = [
       },
       {
         name: "Nerea Pérez",
-        image: "",
+        image: require("../assets/villarreal/306.jpg"),
       },
       {
         name: "Lucía Gómez",
@@ -1408,7 +1408,7 @@ export const clubsInfo = [
       },
       {
         name: "Irene Paredes",
-        image: "",
+        image: require("../assets/fire/335.jpg"),
       },
       {
         name: "Irina Uribe",
@@ -1420,7 +1420,7 @@ export const clubsInfo = [
       },
       {
         name: "Jujuba Cardozo",
-        image: "",
+        image: require("../assets/fire/338.jpg"),
       },
       {
         name: "Keira Walsh",
@@ -1460,11 +1460,11 @@ export const clubsInfo = [
       },
       {
         name: "Nerea Eizagirre",
-        image: "",
+        image: require("../assets/fire/348.jpg"),
       },
       {
         name: "Olga Carmona",
-        image: "",
+        image: require("../assets/fire/349.jpg"),
       },
       {
         name: "Ona Batlle",
@@ -1661,6 +1661,78 @@ export const clubsInfo = [
       {
         name: "Salma Paralluelo",
         image: require("../assets/premium/p10.jpg"),
+      },
+    ],
+  },
+  {
+    id: 21,
+    name: "Repes",
+    image: require("../assets/repes.jpg"),
+    teamPhoto: "",
+    players: [
+      {
+        name: "Mariasun Quiñones",
+        image: require("../assets/athletic/4.jpg"),
+      },
+      {
+        name: "Maite Zubieta",
+        image: require("../assets/athletic/13.jpg"),
+      },
+      {
+        name: "Patri Zugasti",
+        image: require("../assets/athletic/17b.jpg"),
+      },
+      {
+        name: "Patricia Larqué",
+        image: require("../assets/atletico/25.jpg"),
+      },
+      {
+        name: "Merel Van Dongen",
+        image: require("../assets/atletico/27.jpg"),
+      },
+      {
+        name: "Irene Paredes",
+        image: require("../assets/barça/49.jpg"),
+      },
+      {
+        name: "Agus Barroso",
+        image: require("../assets/tenerife/87.jpg"),
+      },
+      {
+        name: "Andrea Romero",
+        image: require("../assets/granada/125.jpg"),
+      },
+      {
+        name: "Alba Pérez",
+        image: require("../assets/granada/127.jpg"),
+      },
+      {
+        name: "Dominika Conc",
+        image: require("../assets/levantePlanas/156.jpg"),
+      },
+      {
+        name: "Elena Julve",
+        image: require("../assets/levantePlanas/159.jpg"),
+      },
+      {
+        name: "Anna Margraf",
+        image: require("../assets/huelva/278.jpg"),
+      },
+      {
+        name: "Escudo del Valencia",
+        image: require("../assets/valencia/282.jpg"),
+      },
+      {
+        name: "Marta Carro",
+        image: require("../assets/valencia/291.jpg"),
+      },
+      {
+        name: "Kayla Mckenna",
+        image: require("../assets/villarreal/321.jpg"),
+      },
+      {
+        name: "Lucy Bronze",
+        image: require("../assets/fire/342.jpg"),
       },
     ],
   },
