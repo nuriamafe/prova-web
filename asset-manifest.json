@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/prova-web/static/css/main.5a7744ae.css",
-    "main.js": "/prova-web/static/js/main.f8f11aab.js",
+    "main.js": "/prova-web/static/js/main.2c1aed2b.js",
     "static/js/787.d4aba7ab.chunk.js": "/prova-web/static/js/787.d4aba7ab.chunk.js",
     "static/media/202.jpg": "/prova-web/static/media/202.1b467dc8ff07bffd4019.jpg",
-    "static/media/83.jpg": "/prova-web/static/media/83.7812b4b199f8cfe988fa.jpg",
+    "static/media/83.jpg": "/prova-web/static/media/83.8e632da41ec89869ebf7.jpg",
     "static/media/142.jpg": "/prova-web/static/media/142.4726a5a63034e52edb5e.jpg",
     "static/media/342.jpg": "/prova-web/static/media/342.d7a7153e2ba0a25bdc6d.jpg",
-    "static/media/63.jpg": "/prova-web/static/media/63.bafa9274939a586527e6.jpg",
+    "static/media/63.jpg": "/prova-web/static/media/63.c8c17372cea39b2d2f56.jpg",
     "static/media/371.jpg": "/prova-web/static/media/371.0186419d9ae356224b74.jpg",
     "static/media/p7.jpg": "/prova-web/static/media/p7.a3c61958d17268e2d9e9.jpg",
     "static/media/348.jpg": "/prova-web/static/media/348.b96facaf54d4ddecddbb.jpg",
@@ -164,11 +164,11 @@
     "static/media/repes.jpg": "/prova-web/static/media/repes.296a5cc6f42466895246.jpg",
     "index.html": "/prova-web/index.html",
     "main.5a7744ae.css.map": "/prova-web/static/css/main.5a7744ae.css.map",
-    "main.f8f11aab.js.map": "/prova-web/static/js/main.f8f11aab.js.map",
+    "main.2c1aed2b.js.map": "/prova-web/static/js/main.2c1aed2b.js.map",
     "787.d4aba7ab.chunk.js.map": "/prova-web/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7744ae.css",
-    "static/js/main.f8f11aab.js"
+    "static/js/main.2c1aed2b.js"
   ]
 }
