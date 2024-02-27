@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/prova-web/static/css/main.5a7744ae.css",
-    "main.js": "/prova-web/static/js/main.84ee5a5b.js",
+    "main.js": "/prova-web/static/js/main.e650f8a3.js",
     "static/js/787.d4aba7ab.chunk.js": "/prova-web/static/js/787.d4aba7ab.chunk.js",
     "static/media/202.jpg": "/prova-web/static/media/202.1b467dc8ff07bffd4019.jpg",
     "static/media/83.jpg": "/prova-web/static/media/83.8e632da41ec89869ebf7.jpg",
     "static/media/142.jpg": "/prova-web/static/media/142.4726a5a63034e52edb5e.jpg",
     "static/media/347.jpg": "/prova-web/static/media/347.8c1aa3bdfc1b0380779a.jpg",
+    "static/media/82.jpg": "/prova-web/static/media/82.af4083141445f0038398.jpg",
     "static/media/342.jpg": "/prova-web/static/media/342.d7a7153e2ba0a25bdc6d.jpg",
     "static/media/375.jpg": "/prova-web/static/media/375.bd448ecc28bee5eab4a0.jpg",
     "static/media/63.jpg": "/prova-web/static/media/63.c8c17372cea39b2d2f56.jpg",
@@ -56,6 +57,7 @@
     "static/media/329.jpg": "/prova-web/static/media/329.6f6f52f46e3b61673121.jpg",
     "static/media/325.jpg": "/prova-web/static/media/325.5b0eef5cab6d446962c7.jpg",
     "static/media/15.jpg": "/prova-web/static/media/15.00a401a8f6b1d06e63d3.jpg",
+    "static/media/234.jpg": "/prova-web/static/media/234.7367792745043051a2c8.jpg",
     "static/media/241.jpg": "/prova-web/static/media/241.83a8b2b20fc858217113.jpg",
     "static/media/87.jpg": "/prova-web/static/media/87.101477fad6f70d7c3902.jpg",
     "static/media/71.jpg": "/prova-web/static/media/71.1a48f3f9ebeef0de569e.jpg",
@@ -69,6 +71,7 @@
     "static/media/217.jpg": "/prova-web/static/media/217.85541ca43adb9f63b33c.jpg",
     "static/media/227.jpg": "/prova-web/static/media/227.c2519d911baf34c8726a.jpg",
     "static/media/139.jpg": "/prova-web/static/media/139.3cc21e3526f7e0f1d8de.jpg",
+    "static/media/313.jpg": "/prova-web/static/media/313.c2a195586303ed8bbae6.jpg",
     "static/media/19.jpg": "/prova-web/static/media/19.c7d898b2800a4ecde32a.jpg",
     "static/media/107.jpg": "/prova-web/static/media/107.c4efeb239342c97d1334.jpg",
     "static/media/46.jpg": "/prova-web/static/media/46.abb8f5153f6fe8fcf7cb.jpg",
@@ -77,12 +80,14 @@
     "static/media/70.jpg": "/prova-web/static/media/70.6c50b8856f67feb3a785.jpg",
     "static/media/8a.jpg": "/prova-web/static/media/8a.768a712ee09e21d6a6a2.jpg",
     "static/media/116.jpg": "/prova-web/static/media/116.ee654f1dbd76c71ca651.jpg",
+    "static/media/154a.jpg": "/prova-web/static/media/154a.4b0bf5dfffa505722a6c.jpg",
     "static/media/127.jpg": "/prova-web/static/media/127.057d6b03b270a27f5cf8.jpg",
     "static/media/334.jpg": "/prova-web/static/media/334.8b92b66bdb4c9f16d41a.jpg",
     "static/media/22.jpg": "/prova-web/static/media/22.f1b29cfc6b3f5a9105d3.jpg",
     "static/media/135.jpg": "/prova-web/static/media/135.5359bcb65e07474e2599.jpg",
     "static/media/322.jpg": "/prova-web/static/media/322.ef35038b0d00931651e5.jpg",
     "static/media/219.jpg": "/prova-web/static/media/219.623eb7f085ec7c21751f.jpg",
+    "static/media/208.jpg": "/prova-web/static/media/208.2534419fb5899d937755.jpg",
     "static/media/88b.jpg": "/prova-web/static/media/88b.f947b37a6f14e2c4894f.jpg",
     "static/media/278.jpg": "/prova-web/static/media/278.8ea86b94aaa412aa6a2b.jpg",
     "static/media/306.jpg": "/prova-web/static/media/306.7b7405f28e06ff9924cc.jpg",
@@ -98,6 +103,7 @@
     "static/media/192.jpg": "/prova-web/static/media/192.73b659b57d65dccb9e46.jpg",
     "static/media/377.jpg": "/prova-web/static/media/377.d1cea03c0030cf1d714e.jpg",
     "static/media/206.jpg": "/prova-web/static/media/206.a6950aa2dc3e2e3073d7.jpg",
+    "static/media/254.jpg": "/prova-web/static/media/254.9a5aa3e317b8ac526ed0.jpg",
     "static/media/341.jpg": "/prova-web/static/media/341.dc02eb4febaecc6cfd90.jpg",
     "static/media/357.jpg": "/prova-web/static/media/357.4030615cd74bccf8884e.jpg",
     "static/media/21.jpg": "/prova-web/static/media/21.a91e802ed0bd95766fcf.jpg",
@@ -177,11 +183,11 @@
     "static/media/repes.jpg": "/prova-web/static/media/repes.296a5cc6f42466895246.jpg",
     "index.html": "/prova-web/index.html",
     "main.5a7744ae.css.map": "/prova-web/static/css/main.5a7744ae.css.map",
-    "main.84ee5a5b.js.map": "/prova-web/static/js/main.84ee5a5b.js.map",
+    "main.e650f8a3.js.map": "/prova-web/static/js/main.e650f8a3.js.map",
     "787.d4aba7ab.chunk.js.map": "/prova-web/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7744ae.css",
-    "static/js/main.84ee5a5b.js"
+    "static/js/main.e650f8a3.js"
   ]
 }
