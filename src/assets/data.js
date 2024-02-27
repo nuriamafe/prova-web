@@ -15,7 +15,7 @@ export const clubsInfo = [
       },
       {
         name: "Naia Landaluze",
-        image: "",
+        image: require("../assets/athletic/6.jpg"),
       },
       {
         name: "Bibi",
@@ -75,7 +75,7 @@ export const clubsInfo = [
       },
       {
         name: "Paula Arana",
-        image: "",
+        image: require("../assets/athletic/19.jpg"),
       },
       {
         name: "Sanadri",
@@ -172,7 +172,7 @@ export const clubsInfo = [
       },
       {
         name: "Lucía Moral",
-        image: "",
+        image: require("../assets/atletico/40.jpg"),
       },
       {
         name: "Sheila Guijarro",
@@ -192,7 +192,7 @@ export const clubsInfo = [
       },
       {
         name: "Cata Coll",
-        image: "",
+        image: require("../assets/barça/45.jpg"),
       },
       {
         name: "Lucy Bronze",
@@ -300,7 +300,7 @@ export const clubsInfo = [
       },
       {
         name: "Dorine Chuigoue",
-        image: "",
+        image: require("../assets/betis/70.jpg"),
       },
       {
         name: "Paula Perea",
@@ -724,7 +724,7 @@ export const clubsInfo = [
       },
       {
         name: "Paula Fernández",
-        image: "",
+        image: require("../assets/levante/172.jpg"),
       },
       {
         name: "Anna Torrodà",
@@ -1104,7 +1104,7 @@ export const clubsInfo = [
     players: [
       {
         name: "Chelsea Ashurts",
-        image: "",
+        image: require("../assets/huelva/264.jpg"),
       },
       {
         name: "Zala Mersnik",
@@ -1140,7 +1140,7 @@ export const clubsInfo = [
       },
       {
         name: "Sandra Castelló",
-        image: "",
+        image: require("../assets/huelva/272.jpg"),
       },
       {
         name: "Cienfu",
@@ -1172,7 +1172,7 @@ export const clubsInfo = [
       },
       {
         name: "Isina",
-        image: "",
+        image: require("../assets/huelva/280a.jpg"),
       },
       {
         name: "Bárbara López",
@@ -1332,7 +1332,7 @@ export const clubsInfo = [
       },
       {
         name: "Tere Morató",
-        image: "",
+        image: require("../assets/villarreal/318.jpg"),
       },
       {
         name: "Raquel Morcillo",
@@ -1456,7 +1456,7 @@ export const clubsInfo = [
       },
       {
         name: "Nahikari García",
-        image: "",
+        image: require("../assets/fire/347.jpg"),
       },
       {
         name: "Nerea Eizagirre",
@@ -1584,7 +1584,7 @@ export const clubsInfo = [
       },
       {
         name: "Paola Hernández",
-        image: "",
+        image: require("../assets/futuro/375.jpg"),
       },
     ],
   },
@@ -1604,7 +1604,7 @@ export const clubsInfo = [
       },
       {
         name: "Nekane Díaz",
-        image: "",
+        image: require("../assets/top/378.jpg"),
       },
       {
         name: "Cristina Martín-Prieto",
