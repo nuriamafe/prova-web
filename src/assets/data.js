@@ -351,7 +351,7 @@ export const clubsInfo = [
   {
     id: 4,
     name: "Costa Adeje Tenerife",
-    image: "",
+    image: require("../assets/tenerife/82.jpg"),
     teamPhoto: require("../assets/tenerife/83.jpg"),
     players: [
       {
@@ -648,7 +648,7 @@ export const clubsInfo = [
       },
       {
         name: "Pilar Garrote",
-        image: "",
+        image: require("../assets/levantePlanas/154a.jpg"),
       },
       {
         name: "Cristina Baudet",
@@ -876,7 +876,7 @@ export const clubsInfo = [
       },
       {
         name: "Kathellen Sousa",
-        image: "",
+        image: require("../assets/realMadrid/208.jpg"),
       },
       {
         name: "Rocío Gálvez",
@@ -984,7 +984,7 @@ export const clubsInfo = [
       },
       {
         name: "Andreia Jacinto",
-        image: "",
+        image: require("../assets/sociedad/234.jpg"),
       },
       {
         name: "Jacqueline Owusu",
@@ -1064,7 +1064,7 @@ export const clubsInfo = [
       },
       {
         name: "Gemma Gili",
-        image: "",
+        image: require("../assets/sevilla/254.jpg"),
       },
       {
         name: "Klára Cahynová",
@@ -1312,7 +1312,7 @@ export const clubsInfo = [
       },
       {
         name: "Virginia Torrecilla",
-        image: "",
+        image: require("../assets/villarreal/313.jpg"),
       },
       {
         name: "Ainoa Campo",
@@ -1675,6 +1675,10 @@ export const clubsInfo = [
         image: require("../assets/athletic/4.jpg"),
       },
       {
+        name: "Itxaso Uriarte",
+        image: require("../assets/athletic/11.jpg"),
+      },
+      {
         name: "Maite Zubieta",
         image: require("../assets/athletic/13.jpg"),
       },
@@ -1689,6 +1693,14 @@ export const clubsInfo = [
       {
         name: "Merel Van Dongen",
         image: require("../assets/atletico/27.jpg"),
+      },
+      {
+        name: "Leicy Santos",
+        image: require("../assets/atletico/32.jpg"),
+      },
+      {
+        name: "Lucía Moral",
+        image: require("../assets/atletico/40.jpg"),
       },
       {
         name: "Irene Paredes",
@@ -1707,6 +1719,10 @@ export const clubsInfo = [
         image: require("../assets/tenerife/97.jpg"),
       },
       {
+        name: "Eider Arana",
+        image: require("../assets/eibar/110.jpg"),
+      },
+      {
         name: "Jujuba Cardozo",
         image: require("../assets/eibar/111.jpg"),
       },
@@ -1723,12 +1739,24 @@ export const clubsInfo = [
         image: require("../assets/granada/132.jpg"),
       },
       {
+        name: "Lauri Requena",
+        image: require("../assets/granada/138.jpg"),
+      },
+      {
+        name: "Júlia Mora",
+        image: require("../assets/levantePlanas/148.jpg"),
+      },
+      {
         name: "Dominika Conc",
         image: require("../assets/levantePlanas/156.jpg"),
       },
       {
         name: "Elena Julve",
         image: require("../assets/levantePlanas/159.jpg"),
+      },
+      {
+        name: "Flor Bonsegundo",
+        image: require("../assets/madridCff/193.jpg"),
       },
       {
         name: "Laurita Domínguez",
@@ -1759,6 +1787,10 @@ export const clubsInfo = [
         image: require("../assets/valencia/291.jpg"),
       },
       {
+        name: "Nerea Pérez",
+        image: require("../assets/villarreal/306.jpg"),
+      },
+      {
         name: "Kayla Mckenna",
         image: require("../assets/villarreal/321.jpg"),
       },
@@ -1769,6 +1801,10 @@ export const clubsInfo = [
       {
         name: "Aitana Bonmatí",
         image: require("../assets/fire/322.jpg"),
+      },
+      {
+        name: "Amaiur Sarriegi",
+        image: require("../assets/fire/325.jpg"),
       },
       {
         name: "Jujuba Cardozo",
